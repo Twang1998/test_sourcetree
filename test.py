@@ -34,3 +34,5 @@ cv2.imshow('tet',img)
 wlg change something 
 
 and wlg add something 
+
+test amend 
